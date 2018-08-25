@@ -1,0 +1,31 @@
+{
+  "ids": {
+    "User": 1,
+    "AccessToken": 1,
+    "ACL": 1,
+    "RoleMapping": 1,
+    "Role": 1,
+    "Propiedad": 9,
+    "Contacto": 2
+  },
+  "models": {
+    "User": {},
+    "AccessToken": {},
+    "ACL": {},
+    "RoleMapping": {},
+    "Role": {},
+    "Propiedad": {
+      "1": "{\"id\":1,\"nombre\":\"Prueba 1\",\"descripcion\":\"Prueba\",\"direccion\":\"Juan Manuel de Rosas 1802\",\"localidad\":\"rosario\",\"tipoPropiedad\":\"terrenos\",\"dormitorios\":\"2dorm\",\"tipoOperacion\":\"venta\",\"aptaCredito\":\"false\",\"vendidaOalquilada\":\"vendida\",\"piso\":\"3\",\"acceso\":\"Oeste\",\"cochera\":\"true\",\"banios\":\"3\",\"antiguedad\":\"20 años\",\"plantas\":\"2\",\"supTerreno\":\"340xm2\",\"supCubierta\":\"x231321\",\"supSemiCubierta\":\"qdasd\",\"precio\":\"u$s 300.000\",\"foto_1\":\"perotti.jpg\",\"foto_1_thumb\":\"thumb_perotti.jpg\",\"foto_2\":\"709751-cool-pink-floyd-background-1920x1080.jpg\",\"foto_3\":null,\"foto_4\":null,\"foto_5\":null,\"foto_6\":null,\"contactoId\":1,\"forma_pago\":\"Tarjeta\"}",
+      "2": "{\"id\":2,\"nombre\":\"Prueba 1\",\"descripcion\":\"Prueba\",\"direccion\":null,\"localidad\":\"funes\",\"tipoPropiedad\":\"terrenos\",\"dormitorios\":\"2dorm\",\"tipoOperacion\":\"venta\",\"vendidaOalquilada\":\"vendida\",\"piso\":null,\"acceso\":null,\"cochera\":null,\"banios\":null,\"antiguedad\":null,\"plantas\":null,\"supTerreno\":null,\"supCubierta\":null,\"supSemiCubierta\":null,\"precio\":null,\"foto_1\":\"13738179_10210196011846379_608723056101545068_o.jpg\",\"foto_1_thumb\":\"thumb_13738179_10210196011846379_608723056101545068_o.jpg\",\"foto_2\":null,\"foto_3\":null,\"foto_4\":null,\"foto_5\":null,\"foto_6\":null,\"contactoId\":null,\"forma_pago\":null}",
+      "3": "{\"nombre\":\"a\",\"descripcion\":null,\"direccion\":null,\"localidad\":null,\"tipoPropiedad\":null,\"dormitorios\":null,\"tipoOperacion\":null,\"vendidaOalquilada\":null,\"piso\":null,\"acceso\":null,\"cochera\":null,\"banios\":null,\"antiguedad\":null,\"plantas\":null,\"supTerreno\":null,\"supCubierta\":null,\"supSemiCubierta\":null,\"precio\":null,\"foto_1\":null,\"foto_2\":null,\"foto_3\":null,\"foto_4\":null,\"foto_5\":null,\"foto_6\":null,\"forma_pago\":null,\"contactoId\":1,\"id\":3}",
+      "4": "{\"nombre\":\"string\",\"descripcion\":\"string\",\"direccion\":\"string\",\"fotos\":[{}],\"dimensiones\":\"string\",\"localidad\":\"string\",\"tipoPropiedad\":\"string\",\"dormitorios\":\"string\",\"codigoReferencia\":\"string\",\"tipoOperacion\":\"string\",\"aptaCredito\":\"string\",\"vendidaOalquilada\":\"string\",\"piso\":\"string\",\"acceso\":\"string\",\"cochera\":\"string\",\"banios\":\"string\",\"antiguedad\":\"string\",\"plantas\":\"string\",\"supTerreno\":\"string\",\"supCubierta\":\"string\",\"supSemiCubierta\":\"string\",\"precio\":\"string\",\"foto_1\":\"string\",\"foto_2\":\"string\",\"foto_3\":\"string\",\"foto_4\":\"string\",\"foto_5\":\"string\",\"foto_6\":\"string\",\"contactoId\":1,\"contacto\":\"string\",\"id\":4}",
+      "5": "{\"nombre\":\"asda\",\"descripcion\":\"asdads\",\"direccion\":null,\"localidad\":null,\"tipoPropiedad\":null,\"dormitorios\":null,\"codigoReferencia\":\"12312313\",\"tipoOperacion\":null,\"vendidaOalquilada\":null,\"piso\":null,\"acceso\":null,\"cochera\":null,\"banios\":null,\"antiguedad\":null,\"plantas\":null,\"supTerreno\":null,\"supCubierta\":null,\"supSemiCubierta\":null,\"precio\":null,\"foto_1\":null,\"foto_2\":null,\"foto_3\":null,\"foto_4\":null,\"foto_5\":null,\"foto_6\":null,\"contactoId\":1,\"forma_pago\":null,\"id\":5}",
+      "6": "{\"id\":6,\"nombre\":\"PINK FLOYD\",\"descripcion\":null,\"direccion\":null,\"localidad\":null,\"tipoPropiedad\":null,\"dormitorios\":null,\"codigoReferencia\":null,\"tipoOperacion\":\"alquiler\",\"vendidaOalquilada\":null,\"piso\":null,\"acceso\":null,\"cochera\":null,\"banios\":null,\"antiguedad\":null,\"plantas\":null,\"supTerreno\":null,\"supCubierta\":null,\"supSemiCubierta\":null,\"precio\":null,\"foto_1\":\"pink_floyd_rock_band_syd_barrett_roger_waters_david_gilmour_richard_wright_bw_98861_1440x900.jpg\",\"foto_1_thumb\":\"thumb_pink_floyd_rock_band_syd_barrett_roger_waters_david_gilmour_richard_wright_bw_98861_1440x900.jpg\",\"foto_2\":null,\"foto_3\":null,\"foto_4\":null,\"foto_5\":null,\"foto_6\":null,\"contactoId\":null,\"forma_pago\":null}",
+      "7": "{\"nombre\":null,\"descripcion\":null,\"direccion\":null,\"localidad\":null,\"tipoPropiedad\":null,\"dormitorios\":null,\"codigoReferencia\":null,\"tipoOperacion\":null,\"vendidaOalquilada\":null,\"piso\":null,\"acceso\":null,\"cochera\":null,\"banios\":null,\"antiguedad\":null,\"plantas\":null,\"supTerreno\":null,\"supCubierta\":null,\"supSemiCubierta\":null,\"precio\":null,\"foto_1\":\"709751-cool-pink-floyd-background-1920x1080.jpg\",\"foto_2\":null,\"foto_3\":null,\"foto_4\":null,\"foto_5\":null,\"foto_6\":null,\"contactoId\":null,\"forma_pago\":null,\"id\":7}",
+      "8": "{\"nombre\":\"Ramiro\",\"descripcion\":\"Venta de inmueble\",\"direccion\":\"juan manuel de rosas 1802\",\"localidad\":\"Funes\",\"tipoPropiedad\":\"Casa\",\"dormitorios\":\"3 Dormitorios\",\"codigoReferencia\":\"2000\",\"tipoOperacion\":\"alquiler\",\"vendidaOalquilada\":\"vendida\",\"piso\":\"3\",\"acceso\":\"\",\"cochera\":\"true\",\"banios\":\"1\",\"antiguedad\":\"20 años\",\"plantas\":\"3\",\"supTerreno\":null,\"supCubierta\":null,\"supSemiCubierta\":null,\"precio\":\"$5000000\",\"foto_1\":\"prop.jpg\",\"foto_1_thumb\":\"thumb_prop.jpg\",\"foto_2\":\"asdasdasd.jpg\",\"foto_3\":null,\"foto_4\":null,\"foto_5\":null,\"foto_6\":null,\"contactoId\":1,\"forma_pago\":null,\"id\":8}"
+    },
+    "Contacto": {
+      "1": "{\"nombre\":\"Gustavo\",\"email\":\"voidhmaster@gmail.com\",\"telefono\":\"143242423\",\"id\":1}"
+    }
+  }
+}

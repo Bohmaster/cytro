@@ -1,0 +1,35 @@
+{
+  "ids": {
+    "User": 1,
+    "AccessToken": 1,
+    "ACL": 1,
+    "RoleMapping": 1,
+    "Role": 1,
+    "Propiedad": 12,
+    "Contacto": 3
+  },
+  "models": {
+    "User": {},
+    "AccessToken": {},
+    "ACL": {},
+    "RoleMapping": {},
+    "Role": {},
+    "Propiedad": {
+      "1": "{\"id\":1,\"nombre\":\"xxxx\",\"descripcion\":\"jashdkjhaksdhkjahskjdhakjshd\\najdhakjshdkjahsdkjahsda\\nasjdhakjhdkjashkdjhasjkd\\nasdjhajshjahsjhasdhas\",\"direccion\":\"Rioja 2341\",\"localidad\":\"rosario\",\"tipoPropiedad\":\"casa\",\"dormitorios\":\"2dorm\",\"tipoOperacion\":\"venta\",\"vendidaOalquilada\":\"true\",\"piso\":null,\"acceso\":null,\"cochera\":null,\"banios\":null,\"antiguedad\":null,\"plantas\":null,\"supTerreno\":null,\"supCubierta\":null,\"supSemiCubierta\":null,\"precio\":\"u$s 300.000\",\"foto_1\":\"user_male2-512.png\",\"forma_pago\":null,\"contactoId\":null}",
+      "2": "{\"id\":2,\"nombre\":\"xxxx\",\"descripcion\":\"jashdkjhaksdhkjahskjdhakjshd\\najdhakjshdkjahsdkjahsda\\nasjdhakjhdkjashkdjhasjkd\\nasdjhajshjahsjhasdhas\",\"direccion\":\"Rioja 2341\",\"localidad\":\"rosario\",\"tipoPropiedad\":\"casa\",\"dormitorios\":\"2dorm\",\"tipoOperacion\":\"venta\",\"vendidaOalquilada\":\"true\",\"piso\":null,\"acceso\":null,\"cochera\":null,\"banios\":null,\"antiguedad\":null,\"plantas\":null,\"supTerreno\":null,\"supCubierta\":null,\"supSemiCubierta\":null,\"precio\":\"u$s 300.000\",\"foto_1\":\"13738179_10210196011846379_608723056101545068_o.jpg\",\"forma_pago\":null,\"contactoId\":null}",
+      "3": "{\"nombre\":\"xxxx\",\"descripcion\":\"jashdkjhaksdhkjahskjdhakjshd\\najdhakjshdkjahsdkjahsda\\nasjdhakjhdkjashkdjhasjkd\\nasdjhajshjahsjhasdhas\",\"direccion\":\"Rioja 2341\",\"localidad\":\"rosario\",\"tipoPropiedad\":\"casa\",\"dormitorios\":\"2dorm\",\"tipoOperacion\":\"venta\",\"vendidaOalquilada\":\"true\",\"piso\":null,\"acceso\":null,\"cochera\":null,\"banios\":null,\"antiguedad\":null,\"plantas\":null,\"supTerreno\":null,\"supCubierta\":null,\"supSemiCubierta\":null,\"precio\":\"u$s 300.000\",\"forma_pago\":null,\"contactoId\":null,\"id\":3}",
+      "4": "{\"nombre\":\"xxxx\",\"descripcion\":\"jashdkjhaksdhkjahskjdhakjshd\\najdhakjshdkjahsdkjahsda\\nasjdhakjhdkjashkdjhasjkd\\nasdjhajshjahsjhasdhas\",\"direccion\":\"Rioja 2341\",\"localidad\":\"rosario\",\"tipoPropiedad\":\"casa\",\"dormitorios\":\"2dorm\",\"tipoOperacion\":\"venta\",\"vendidaOalquilada\":\"true\",\"piso\":null,\"acceso\":null,\"cochera\":null,\"banios\":null,\"antiguedad\":null,\"plantas\":null,\"supTerreno\":null,\"supCubierta\":null,\"supSemiCubierta\":null,\"precio\":\"u$s 300.000\",\"forma_pago\":null,\"contactoId\":null,\"id\":4}",
+      "5": "{\"nombre\":\"xxxx\",\"descripcion\":\"jashdkjhaksdhkjahskjdhakjshd\\najdhakjshdkjahsdkjahsda\\nasjdhakjhdkjashkdjhasjkd\\nasdjhajshjahsjhasdhas\",\"direccion\":\"Rioja 2341\",\"localidad\":\"rosario\",\"tipoPropiedad\":\"casa\",\"dormitorios\":\"2dorm\",\"tipoOperacion\":\"venta\",\"vendidaOalquilada\":\"true\",\"piso\":null,\"acceso\":null,\"cochera\":null,\"banios\":null,\"antiguedad\":null,\"plantas\":null,\"supTerreno\":null,\"supCubierta\":null,\"supSemiCubierta\":null,\"precio\":\"u$s 300.000\",\"forma_pago\":null,\"contactoId\":null,\"id\":5}",
+      "6": "{\"nombre\":\"xxxx\",\"descripcion\":\"jashdkjhaksdhkjahskjdhakjshd\\najdhakjshdkjahsdkjahsda\\nasjdhakjhdkjashkdjhasjkd\\nasdjhajshjahsjhasdhas\",\"direccion\":\"Rioja 2341\",\"localidad\":\"rosario\",\"tipoPropiedad\":\"casa\",\"dormitorios\":\"2dorm\",\"tipoOperacion\":\"venta\",\"vendidaOalquilada\":\"true\",\"piso\":null,\"acceso\":null,\"cochera\":null,\"banios\":null,\"antiguedad\":null,\"plantas\":null,\"supTerreno\":null,\"supCubierta\":null,\"supSemiCubierta\":null,\"precio\":\"u$s 300.000\",\"forma_pago\":null,\"contactoId\":null,\"id\":6}",
+      "7": "{\"nombre\":\"xxxx\",\"descripcion\":\"jashdkjhaksdhkjahskjdhakjshd\\najdhakjshdkjahsdkjahsda\\nasjdhakjhdkjashkdjhasjkd\\nasdjhajshjahsjhasdhas\",\"direccion\":\"Rioja 2341\",\"localidad\":\"rosario\",\"tipoPropiedad\":\"casa\",\"dormitorios\":\"2dorm\",\"tipoOperacion\":\"alquiler\",\"vendidaOalquilada\":\"true\",\"piso\":null,\"acceso\":null,\"cochera\":null,\"banios\":null,\"antiguedad\":null,\"plantas\":null,\"supTerreno\":null,\"supCubierta\":null,\"supSemiCubierta\":null,\"precio\":\"u$s 300.000\",\"forma_pago\":null,\"contactoId\":null,\"id\":7}",
+      "8": "{\"nombre\":\"xxxx\",\"descripcion\":\"jashdkjhaksdhkjahskjdhakjshd\\najdhakjshdkjahsdkjahsda\\nasjdhakjhdkjashkdjhasjkd\\nasdjhajshjahsjhasdhas\",\"direccion\":\"Rioja 2341\",\"localidad\":\"rosario\",\"tipoPropiedad\":\"casa\",\"dormitorios\":\"2dorm\",\"tipoOperacion\":\"alquiler\",\"vendidaOalquilada\":\"true\",\"piso\":null,\"acceso\":null,\"cochera\":null,\"banios\":null,\"antiguedad\":null,\"plantas\":null,\"supTerreno\":null,\"supCubierta\":null,\"supSemiCubierta\":null,\"precio\":\"u$s 300.000\",\"forma_pago\":null,\"contactoId\":null,\"id\":8}",
+      "9": "{\"nombre\":\"xxxx\",\"descripcion\":\"jashdkjhaksdhkjahskjdhakjshd\\najdhakjshdkjahsdkjahsda\\nasjdhakjhdkjashkdjhasjkd\\nasdjhajshjahsjhasdhas\",\"direccion\":\"Rioja 2341\",\"localidad\":\"rosario\",\"tipoPropiedad\":\"casa\",\"dormitorios\":\"2dorm\",\"tipoOperacion\":\"alquiler\",\"vendidaOalquilada\":\"true\",\"piso\":null,\"acceso\":null,\"cochera\":null,\"banios\":null,\"antiguedad\":null,\"plantas\":null,\"supTerreno\":null,\"supCubierta\":null,\"supSemiCubierta\":null,\"precio\":\"u$s 300.000\",\"forma_pago\":null,\"contactoId\":null,\"id\":9}",
+      "10": "{\"nombre\":null,\"descripcion\":null,\"direccion\":null,\"localidad\":null,\"tipoPropiedad\":null,\"dormitorios\":null,\"tipoOperacion\":null,\"vendidaOalquilada\":null,\"piso\":null,\"acceso\":null,\"cochera\":null,\"banios\":null,\"antiguedad\":null,\"plantas\":null,\"supTerreno\":null,\"supCubierta\":null,\"supSemiCubierta\":null,\"precio\":null,\"foto_1\":\"13738179_10210196011846379_608723056101545068_o.jpg\",\"foto_2\":\"709751-cool-pink-floyd-background-1920x1080.jpg\",\"foto_3\":null,\"foto_4\":null,\"foto_5\":null,\"foto_6\":null,\"forma_pago\":null,\"contactoId\":null,\"id\":10}",
+      "11": "{\"nombre\":\"asdasd\",\"descripcion\":null,\"direccion\":null,\"localidad\":null,\"tipoPropiedad\":null,\"dormitorios\":null,\"tipoOperacion\":null,\"vendidaOalquilada\":null,\"piso\":null,\"acceso\":null,\"cochera\":null,\"banios\":null,\"antiguedad\":null,\"plantas\":null,\"supTerreno\":null,\"supCubierta\":null,\"supSemiCubierta\":null,\"precio\":null,\"foto_1\":null,\"foto_2\":null,\"foto_3\":null,\"foto_4\":null,\"foto_5\":null,\"foto_6\":null,\"forma_pago\":null,\"contactoId\":null,\"id\":11}"
+    },
+    "Contacto": {
+      "1": "{\"nombre\":\"Ramiro\",\"email\":null,\"telefono\":null,\"id\":1}",
+      "2": "{\"nombre\":\"Gustavo Trovant\",\"email\":\"gtrovant@yahoo.com\",\"telefono\":\"0341 564 3376\",\"id\":2}"
+    }
+  }
+}

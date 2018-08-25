@@ -1,0 +1,111 @@
+{
+  "name": "Propiedad",
+  "base": "PersistedModel",
+  "strict": false,
+  "idInjection": false,
+  "options": {
+    "validateUpsert": true
+  },
+  "scope": {
+    "include": "contacto"
+  },
+  "properties": {
+    "nombre": {
+      "type": "string"
+    },
+    "descripcion": {
+      "type": "string"
+    },
+    "direccion": {
+      "type": "string"
+    },
+    "fotos": {
+      "type": "array"
+    },
+    "dimensiones": {
+      "type": "string"
+    },
+    "localidad": {
+      "type": "string"
+    },
+    "tipoPropiedad": {
+      "type": "string"
+    },
+    "dormitorios": {
+      "type": "string"
+    },
+    "codigoReferencia": {
+      "type": "string"
+    },
+    "tipoOperacion": {
+      "type": "string"
+    },
+    "aptaCredito": {
+      "type": "string"
+    },
+    "vendidaOalquilada": {
+      "type": "string"
+    },
+    "piso": {
+      "type": "string"
+    },
+    "acceso": {
+      "type": "string"
+    },
+    "cochera": {
+      "type": "string"
+    },
+    "banios": {
+      "type": "string"
+    },
+    "antiguedad": {
+      "type": "string"
+    },
+    "plantas": {
+      "type": "string"
+    },
+    "supTerreno": {
+      "type": "string"
+    },
+    "supCubierta": {
+      "type": "string"
+    },
+    "supSemiCubierta": {
+      "type": "string"
+    },
+    "precio": {
+      "type": "string"
+    },
+    "foto_1": {
+      "type": "string"
+    },
+    "foto_1_thumb": {
+      "type": "string"
+    },
+    "foto_2": {
+      "type": "string"
+    },
+    "foto_3": {
+      "type": "string"
+    },
+    "foto_4": {
+      "type": "string"
+    },
+    "foto_5": {
+      "type": "string"
+    },
+    "foto_6": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {
+    "contacto": {
+      "type": "hasOne",
+      "model": "Contacto",
+      "foreignKey": ""
+    }
+  },
+  "acls": [],
+  "methods": {}
+}
