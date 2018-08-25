@@ -17,12 +17,12 @@
   crossorigin="anonymous"></script>
     <script src="node_modules/ng-admin/build/ng-admin.min.js"></script>
     <script type="text/javascript">
-        var API_URL = 'http://localhost:3005/api/';
+        var API_URL = 'http://zitroinmobilaria.com:3005/api/';
         var myApp = angular.module('myApp', ['ng-admin']);
         myApp.config(['NgAdminConfigurationProvider', function (NgAdminConfigurationProvider) {
             var nga = NgAdminConfigurationProvider;
             // create an admin application
-            var admin = nga.application('My First Admin').baseApiUrl('http://localhost:3005/api/');
+            var admin = nga.application('My First Admin').baseApiUrl('http://zitroinmobilaria.com:3005/api/');
             // more configuration here later
             // ...
             // attach the admin application to the DOM and run it
